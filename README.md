@@ -6,8 +6,9 @@ All confidential data, models, and results are removed.
 More will be release upon acceptance of the article.
 
 Learnt structure in data:
-![Structure of raw feature](AutoGluon Figures/umap_projection_raw.png)
-![Structure of learnt embeddings](AutoGluon Figures/umap_projection_embedding.png)
+![Structure of raw feature](https://github.com/HowardKao-1130/ACL-injury-prediction-demo/AutoGluon Figures/umap_projection_raw.png)
+![Structure of learnt embeddings](https://github.com/HowardKao-1130/ACL-injury-prediction-demo/AutoGluon Figures/umap_projection_embedding.png)
 
 Prediction outcome:
-![Confusion matrix](AutoGluon Figures/confusion_matrix.png)
+![Confusion matrix](https://github.com/HowardKao-1130/ACL-injury-prediction-demo/AutoGluon Figures/confusion_matrix.png)
+
